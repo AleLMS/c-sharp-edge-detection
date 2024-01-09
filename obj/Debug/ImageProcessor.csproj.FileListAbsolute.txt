@@ -1,0 +1,7 @@
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\bin\Debug\drawtest.exe.config
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\bin\Debug\drawtest.exe
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\bin\Debug\drawtest.pdb
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\obj\Debug\ImageProcessor.csproj.AssemblyReference.cache
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\obj\Debug\ImageProcessor.csproj.CoreCompileInputs.cache
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\obj\Debug\drawtest.exe
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\obj\Debug\drawtest.pdb

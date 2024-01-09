@@ -1,0 +1,8 @@
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\bin\Release\drawtest.exe.config
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\bin\Release\drawtest.exe
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\bin\Release\drawtest.pdb
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\obj\Release\drawtest.csproj.AssemblyReference.cache
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\obj\Release\drawtest.csproj.SuggestedBindingRedirects.cache
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\obj\Release\drawtest.csproj.CoreCompileInputs.cache
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\obj\Release\drawtest.exe
+E:\Koulu\OHJP\gb\draw_test\drawtest\drawtest\obj\Release\drawtest.pdb
